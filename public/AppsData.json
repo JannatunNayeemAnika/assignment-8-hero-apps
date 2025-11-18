@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://i.pinimg.com/1200x/38/ef/37/38ef3716bda5f47a5e27fc8a0fe4657b.jpg",
+    "title": "Call of Duty: Mobile",
+    "companyName": "Activision Publishing, Inc.",
+    "id": 1,
+    "description": "A massive free-to-play first-person shooter that offers players a variety of game modes, including 5v5 team deathmatch, domination, and an expansive battle royale experience. The game delivers console-quality HD graphics, immersive sound design, and realistic weapon mechanics, providing a highly engaging and visually stunning gameplay experience. Players can customize their controls, loadouts, and equipment to suit their preferred playstyle, enhancing both comfort and competitive advantage. Fast-paced matches demand strategic thinking, teamwork, and precise shooting skills, whether competing in small-scale tactical skirmishes or large-scale survival battles. Frequent updates introduce new maps, weapons, skins, and seasonal events, keeping gameplay fresh and exciting. With its combination of high-quality visuals, diverse game modes, and competitive multiplayer action, the game has become a popular choice among FPS enthusiasts worldwide. Players can join squads with friends, climb leaderboards, and participate in ranked matches, further adding to the depth and replayability. The game’s blend of accessibility, customization, and intense action ensures an adrenaline-fueled experience that appeals to both casual and hardcore players alike.",
+    "size": "15GB" ,
+    "reviews": 1500000,
+    "ratingAvg": 5,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 600000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/2b/77/52/2b77523cb07b5b6a974fcfc32f893ce6.jpg",
+    "title": "Genshin Impact",
+    "companyName": "miHoYo",
+    "id": 2,
+    "description": "An open-world action RPG that immerses players in the expansive and vibrant world of Teyvat. The game features a massive, beautifully designed landscape filled with diverse environments, secrets, and challenges to explore. Players engage in a deep combat system that combines elemental abilities, strategic team compositions, and dynamic skill interactions to defeat enemies and bosses. A rich narrative weaves through the game, offering compelling stories for each unique character, encouraging players to form bonds and uncover personal journeys. As players explore Teyvat, they solve puzzles, complete quests, and discover hidden treasures that enhance their experience. The game allows for assembling a team of distinctive characters, each with specialized abilities and personalities, creating endless strategic combinations for combat and exploration. With its stunning visuals, engaging gameplay mechanics, and immersive storytelling, the game provides a captivating experience for both casual and dedicated players. Frequent updates, events, and new character releases keep the world fresh and vibrant, ensuring that every adventure in Teyvat feels dynamic and rewarding.",
+    "size": "250MB",
+    "reviews": 850000,
+    "ratingAvg": 5,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 250000 },
+      { "name": "5 star", "count": 400000 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/d8/aa/e7/d8aae7c3395c9e2d421eef87491bf48a.jpg",
+    "title": "Clash of Clans",
+    "companyName": "Supercell",
+    "id": 3,
+    "description": "A classic strategy game where players build and develop their own village, recruit and train a powerful clan, and engage in epic Clan Wars. Players must strategically manage resources such as gold, elixir, and other materials to upgrade buildings, strengthen defenses, and expand their territory. The game emphasizes planning and tactical decision-making, requiring players to design effective base layouts that can withstand enemy attacks while preparing their own forces for offense. Through multiplayer battles, alliances, and clan participation, players collaborate and compete with others globally, forming strategies to dominate in wars and tournaments. Regular events, challenges, and seasonal updates keep gameplay dynamic and engaging. With its combination of resource management, combat strategy, and community interaction, the game offers a rewarding experience that tests both skill and planning. Its engaging mechanics and competitive multiplayer environment have made it a staple in the strategy game genre, appealing to players of all ages who enjoy strategic thinking, teamwork, and epic battles.",
+    "size": "550MB",
+    "reviews": 1500000,
+    "ratingAvg": 4.5,
+    "downloads":"9M",
+    "ratings": [
+      { "name": "1 star", "count": 180000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 600000 }
+    ]
+  },
+  {
+  "image": "https://e7.pngegg.com/pngimages/191/478/png-clipart-social-media-facebook-emoji-icon-instagram-icon-instagram-logo-text-rectangle-thumbnail.png",
+  "title": "Instagram",
+  "companyName": "Meta Platforms, Inc.",
+  "id": 4,
+  "description": "Instagram is a popular social media platform designed for sharing photos, videos, and stories with a global audience. Users can connect with friends, family, and celebrities, follow accounts that interest them, and engage with content through likes, comments, and direct messages. The platform offers various features such as posts, reels, stories, and the explore tab, enabling users to discover trending content and new creators. Instagram is widely recognized for its focus on visual storytelling, allowing individuals and brands to express creativity, showcase lifestyles, and build personal or professional identities. The platform has played a key role in the rise of influencer culture, providing tools for content monetization, brand promotion, and community engagement. With its intuitive interface, interactive features, and emphasis on visual content, Instagram continues to be a leading platform for social networking, entertainment, and creative expression worldwide.",
+  "size": "250MB",
+  "reviews": 150000000,
+  "ratingAvg": 5,
+  "downloads": "9M",
+  "ratings": [
+    { "name": "1 star", "count": 7000000 },
+    { "name": "2 star", "count": 4000000 },
+    { "name": "3 star", "count": 9000000 },
+    { "name": "4 star", "count": 30000000 },
+    { "name": "5 star", "count": 100000000 }
+  ]
+},
+  {
+    "image": "https://e7.pngegg.com/pngimages/753/509/png-clipart-gt-racing-2-the-real-car-experience-real-racing-3-race-car-exhaust-system-game-thumbnail.png",
+    "title": "Real Racing 3",
+    "companyName": "Electronic Arts",
+    "id": 5,
+    "description": "A highly realistic and visually stunning mobile racing simulator that immerses players in professional-grade racing experiences. The game features officially licensed tracks from around the world, allowing players to compete on accurate representations of famous circuits. With a massive roster of real-world cars, each modeled with attention to detail and authentic performance characteristics, players can experience the thrill of driving top-tier vehicles. Dynamic racing events include 43-car grids, creating intense, competitive races that test skill, strategy, and reflexes. The simulator emphasizes realistic physics, precise handling, and immersive visuals, making every race feel authentic. Players can participate in single-player campaigns, multiplayer competitions, and seasonal events to earn rewards, upgrade their cars, and unlock new vehicles. Regular updates introduce new tracks, cars, and challenges, keeping the gameplay fresh and engaging. With its combination of high-fidelity graphics, realistic racing mechanics, and competitive multiplayer experiences, the game has become a leading mobile racing simulator, offering adrenaline-fueled excitement for racing enthusiasts worldwide.",
+    "size": "450MB",
+    "reviews": 1100000,
+    "ratingAvg": 4.9,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 250000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 300000 }
+    ]
+  },
+ {
+  "image": "https://cdn-icons-png.flaticon.com/512/3536/3536445.png",
+  "title": "WhatsApp Messenger",
+  "companyName": "Meta Platforms, Inc.",
+  "id": 6,
+  "description": "WhatsApp Messenger is a free, cross-platform messaging and voice-over-IP service that enables users to communicate seamlessly across devices. It allows sending text messages, voice messages, images, videos, and documents, as well as making voice and video calls. The platform uses end-to-end encryption, ensuring that all messages and calls are secure and private between the sender and recipient. Users can create individual chats, group chats, and broadcast messages to multiple contacts, making it suitable for personal, professional, and community communication. WhatsApp also supports multimedia sharing, location sharing, status updates, and real-time notifications, enhancing the communication experience. Its simple and intuitive interface makes it easy for people of all ages to use, while features like contact syncing and chat backup provide convenience and data protection. With billions of active users worldwide, WhatsApp has become a leading platform for instant messaging, connecting people globally in a fast, reliable, and secure manner.",
+  "size": "250MB",
+  "reviews": 175000000,
+  "ratingAvg": 4.8,
+  "downloads": "9M",
+  "ratings": [
+    { "name": "1 star", "count": 4500000 },
+    { "name": "2 star", "count": 2500000 },
+    { "name": "3 star", "count": 8000000 },
+    { "name": "4 star", "count": 32000000 },
+    { "name": "5 star", "count": 128000000 }
+  ]
+},
+  {
+    "image": "https://e7.pngegg.com/pngimages/307/598/png-clipart-roblox-app-logo-games-roblox-thumbnail.png",
+    "title": "Roblox",
+    "companyName": "Roblox Corporation",
+    "id": 7,
+    "description": "An immersive platform that allows players to create, share, and explore millions of user-generated 3D worlds and games. Users can design their own environments, develop interactive experiences, and bring unique ideas to life using a variety of tools and building systems. The platform acts as a massive social hub where players can meet, communicate, and collaborate with others from around the globe. Its vast library of user-generated content ensures endless opportunities for exploration, adventure, and entertainment, with new experiences being added continuously. Players can participate in games, challenges, and virtual events, or simply socialize and showcase their creations to a wide audience. With its focus on creativity, community, and interactive gameplay, the platform encourages collaboration and innovation while providing a dynamic space for social interaction. Its accessibility across multiple devices makes it easy for users of all ages to join and engage. By combining game creation, social networking, and exploration, the platform has become a leading destination for digital entertainment and creative expression worldwide.",
+    "size": "2GB",
+    "reviews": 1800000,
+    "ratingAvg": 4.5,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 350000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 600000 }
+    ]
+  },
+  {
+    "image": "https://e7.pngegg.com/pngimages/161/780/png-clipart-pubg-illustration-playerunknown-s-battlegrounds-t-shirt-pubg-corporation-computer-icons-game-t-shirt-playerunknown-s-battlegrounds-t-shirt-thumbnail.png",
+    "title": "PUBG Mobile",
+    "companyName": "Tencent Games",
+    "id": 8,
+    "description": "A popular battle royale mobile game that drops 100 players onto a large, dynamic island where they must scavenge for weapons, armor, and other equipment to survive. Players navigate diverse terrains, from urban areas to open fields, using strategy, skill, and quick reflexes to eliminate opponents while avoiding being killed themselves. As the match progresses, a shrinking safe zone forces players into closer encounters, increasing tension and excitement. The game features solo, duo, and squad modes, encouraging teamwork and tactical coordination when playing with friends. A variety of vehicles, weapons, and gadgets enhance gameplay and provide different strategies for both combat and movement. Regular updates introduce new maps, events, and cosmetic items, keeping the experience fresh and engaging. With its high-intensity action, competitive mechanics, and immersive graphics, the game has become a global phenomenon, attracting millions of players worldwide. The ultimate goal is simple yet challenging: be the last player or team standing, demonstrating superior skill, strategy, and adaptability in every match.",
+    "size": "10GB",
+    "reviews": 1200000,
+    "ratingAvg": 5,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 500000 }
+    ]
+  },
+  {
+  "image": "https://cdn-icons-png.flaticon.com/512/3256/3256013.png",
+  "title": "Twitter",
+  "companyName": "Twitter, Inc.",
+  "id": 9,
+  "description": "Twitter is a widely used social networking platform where users post and engage with short messages called tweets. It enables real-time communication, allowing individuals, organizations, and public figures to share updates, news, and opinions instantly with a global audience. Users can interact with tweets through likes, retweets, and replies, fostering conversations and discussions across diverse topics. The platform supports multimedia content, including images, videos, GIFs, and polls, enhancing the way users express themselves. Hashtags and trending topics help organize content and highlight popular discussions, making it easier to follow breaking news, events, and cultural moments. Twitter’s real-time feed encourages immediate sharing and engagement, connecting people across the world in an instant. It is widely used for networking, marketing, social commentary, and entertainment, with millions of active users contributing to dynamic conversations daily. Its simplicity, accessibility, and focus on concise communication have made Twitter a central platform for news dissemination, social interaction, and public discourse in the digital age.",
+  "size": "450MB",
+  "reviews": 25000000,
+  "ratingAvg": 4.4,
+  "downloads": "9M",
+  "ratings": [
+    { "name": "1 star", "count": 2000000 },
+    { "name": "2 star", "count": 1500000 },
+    { "name": "3 star", "count": 4000000 },
+    { "name": "4 star", "count": 8000000 },
+    { "name": "5 star", "count": 12500000 }
+  ]
+},
+  {
+    "image": "https://i.pinimg.com/736x/83/61/7a/83617a2251c061ee3c6a7527c4b2706d.jpg",
+    "title": "Forza Street",
+    "companyName": "Microsoft Corporation",
+    "id": 10,
+    "description": "A cinematic street racing game that delivers high-speed thrills and immersive racing experiences. Players can collect, upgrade, and customize a roster of legendary and iconic cars, each with unique performance attributes and visual styles. The game emphasizes quick, touch-based races where timing, reflexes, and strategic use of boosts and maneuvers determine victory. Its intuitive controls make it accessible to both casual and competitive players, allowing them to focus on the excitement of racing rather than complex inputs. Races take place across visually stunning urban streets, featuring dynamic environments, traffic obstacles, and challenging tracks that enhance the sense of speed and adrenaline. Players can participate in single-player campaigns, daily challenges, and competitive events to earn rewards and unlock new cars. The upgrade system allows for performance enhancements, visual customization, and unlocking special abilities, ensuring progression and long-term engagement. With cinematic graphics, realistic car physics, and a focus on fast-paced, strategic gameplay, the game delivers an adrenaline-fueled street racing experience that keeps players returning for more high-octane action.",
+    "size": "950MB",
+    "reviews": 800000,
+    "ratingAvg": 4.7,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 150000 }
+    ]
+  },
+  {
+  "image": "https://cdn-icons-png.flaticon.com/512/5968/5968756.png",
+  "title": "Discord",
+  "companyName": "Discord Inc.",
+  "id": 11,
+  "description": "Discord is a widely used communication platform designed for building and managing communities. It allows users to interact through text, voice, and video channels, offering a versatile space for both casual conversations and organized group discussions. Users can join or create servers tailored to specific interests, hobbies, or topics, and within these servers, multiple channels can be organized for focused communication. The platform supports file sharing, screen sharing, and streaming, making it ideal for gaming, education, work, and social activities. With robust moderation tools, roles, and permissions, community managers can maintain safe and organized spaces. Discord also integrates with various apps and bots, providing automation, entertainment, and enhanced functionality. Its real-time communication capabilities, combined with a user-friendly interface, make it easy to connect with friends or meet new people worldwide. Regular updates, mobile and desktop support, and a strong emphasis on community engagement have contributed to its popularity, establishing Discord as one of the leading platforms for social interaction and online collaboration globally.",
+  "size": "150MB",
+  "reviews": 5000000,
+  "ratingAvg": 3.5,
+  "downloads": "9M",
+  "ratings": [
+    { "name": "1 star", "count": 200000 },
+    { "name": "2 star", "count": 150000 },
+    { "name": "3 star", "count": 500000 },
+    { "name": "4 star", "count": 1500000 },
+    { "name": "5 star", "count": 2800000 }
+  ]
+},
+  {
+    "image": "https://i.pinimg.com/736x/aa/cb/d3/aacbd30879adfdcf3da167ca5c83e96d.jpg",
+    "title": "Minecraft Pocket Edition",
+    "companyName": "Mojang Studios",
+    "id": 12,
+    "description": "A classic sandbox game that invites players to explore a vast, blocky, procedurally generated 3D world filled with endless possibilities. Players can gather and extract raw materials, craft tools and weapons, and build anything from simple homes to massive architectural wonders. The game offers multiple modes, including survival, where players must manage resources and face off against creatures, and creative mode, which provides unlimited materials for unrestricted building and experimentation. Its open-ended design encourages imagination, problem-solving, and creativity, allowing players to shape the world around them block by block. Multiplayer options let friends collaborate or compete, sharing their creations and adventures together. The distinct pixelated art style and soothing soundtrack contribute to its nostalgic charm, appealing to players of all ages. Beyond just a game, it has become a cultural phenomenon, inspiring education, creativity, and community worldwide. With constant updates and an active modding scene, it continues to evolve, offering limitless opportunities for exploration, invention, and fun.",
+    "size": "6GB",
+    "reviews": 900000,
+    "ratingAvg": 5,
+    "downloads": "4M",
+    "ratings": [
+      { "name": "1 star", "count": 80000 },
+      { "name": "2 star", "count": 90000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 250000 },
+      { "name": "5 star", "count": 330000 }
+    ]
+  },
+  {
+    "image": "https://kotaku.com/igdb/image/upload/t_cover_big/coaasc.jpg",
+    "title": "Valorant Mobile",
+    "companyName": "Riot Games",
+    "id": 13,
+    "description": "A tactical 5v5 first-person shooter that combines precise gunplay with strategic use of unique agent abilities. Players select from a diverse roster of agents, each equipped with distinct powers that can influence the outcome of every round. The game emphasizes teamwork, communication, and strategic planning, requiring players to coordinate their moves, execute tactics, and adapt to opponents’ strategies. Every match is a test of accuracy, reflexes, and decision-making, as teams battle to plant or defuse objectives while maintaining control of key areas. The blend of traditional shooter mechanics with character-driven abilities creates a deep and rewarding gameplay experience. Competitive ranked modes challenge players to improve their skills and climb the leaderboards, while casual and custom matches provide opportunities for practice and fun. With its detailed maps, polished visuals, and balanced gameplay design, the game delivers both intensity and creativity in equal measure. It has quickly become one of the most popular esports titles, celebrated for its balance of tactical depth, teamwork, and high-stakes action.",
+    "size": "750MB",
+    "reviews": 450000,
+    "ratingAvg": 4.5,
+    "downloads": "8M",
+    "ratings": [
+      { "name": "1 star", "count": 30000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 80000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 150000 }
+    ]
+  },
+  {
+    "image": "https://p7.hiclipart.com/preview/416/401/159/subway-surfers-smash-champs-android-kiloo-subway-surfer-thumbnail.jpg",
+    "title": "Subway Surfers",
+    "companyName": "SYBO Games",
+    "id": 14,
+    "description": "A fast-paced endless runner game where players race through vibrant cityscapes, dodging oncoming trains, barriers, and other obstacles while collecting coins and power-ups along the way. The goal is to run as far as possible without crashing, testing players’ reflexes and timing. With smooth controls and engaging gameplay, it offers an exciting experience for players of all ages. The game features colorful, dynamic environments that change with each update, often introducing new cities, characters, and seasonal themes. Power-ups such as jetpacks, hoverboards, and magnets help players boost their scores and extend their runs. Players can also complete daily challenges, unlock special outfits, and compete with friends on leaderboards to reach the top. Its lively soundtrack and eye-catching visuals create an energetic atmosphere that keeps players coming back for more. Known for its addictive gameplay and frequent content updates, the game has become one of the most popular mobile titles worldwide, offering endless fun and adventure in every run.",
+    "size": "180MB",
+    "reviews": 3000000,
+    "ratingAvg":4.3,
+    "downloads": "10M",
+    "ratings": [
+      { "name": "1 star", "count": 350000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 800000 },
+      { "name": "5 star", "count": 1900000 }
+    ]
+  },
+  {
+    "image": "https://cdn1.iconfinder.com/data/icons/logos-brands-in-colors/231/among-us-player-pink-512.png",
+    "title": "Among Us",
+    "companyName": "Innersloth LLC",
+    "id": 15,
+    "description": "A social deduction game that challenges players to work together aboard a spaceship while identifying hidden impostors among them. Each player takes on the role of a crewmate or an impostor, with crewmates tasked to complete various objectives and maintain the ship’s systems. Meanwhile, impostors secretly sabotage missions, create chaos, and eliminate other players without getting caught. The tension and excitement build as players call emergency meetings to discuss suspicious behavior and vote on who they believe the impostor is. With its mix of teamwork, deception, and strategy, every match offers a unique and unpredictable experience. The game’s simple controls, colorful art style, and engaging social dynamics make it accessible to players of all ages. It gained massive popularity for its multiplayer fun, streaming appeal, and the thrilling psychological element of trust versus betrayal. Whether played with friends or strangers online, it delivers laughter, suspense, and memorable moments, solidifying its place as one of the most iconic social games of the modern era.",
+    "size": "250MB",
+    "reviews": 2700000,
+    "ratingAvg": 5,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 350000 },
+      { "name": "4 star", "count": 700000 },
+      { "name": "5 star", "count": 1250000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/5968/5968959.png",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 16,
+    "description": "A leading music streaming platform that allows users to access millions of songs, albums, podcasts, and playlists from artists and creators around the world. It offers a seamless listening experience with high-quality audio and an intuitive interface that works across mobile, desktop, and smart devices. Users can explore music by genre, mood, or activity, and discover new artists through curated recommendations tailored to their listening habits. One of the platform’s most popular features is its personalized daily mixes, which combine favorite tracks with new suggestions to keep the experience fresh and engaging. Subscribers can also download their favorite songs and playlists for offline listening, ensuring uninterrupted enjoyment even without an internet connection. In addition, the service supports collaborative playlists, allowing friends to share and create collections together. Through innovative algorithms and expertly curated content, it connects people to the music they love and helps them discover new sounds effortlessly. With millions of active users worldwide, it has become a cultural hub for both listeners and artists, redefining how people experience and share music in the digital age.",
+    "size": "90MB",
+    "reviews": 25000000,
+    "ratingAvg": 4.6,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 14500000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2504/2504929.png",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 17,
+    "description": "A global streaming service that offers an extensive library of movies, TV series, documentaries, and exclusive original productions. It provides viewers with instant access to entertainment across multiple genres and languages, catering to audiences around the world. The platform is renowned for its seamless, user-friendly interface that allows smooth navigation and uninterrupted streaming on various devices, including smartphones, smart TVs, tablets, and computers. One of its standout features is its powerful recommendation system, which uses advanced algorithms to personalize content suggestions based on a user’s viewing history and preferences. This ensures that every viewer discovers new and relevant shows and films effortlessly. In addition to on-demand streaming, the service continually expands its collection with high-quality original productions that have set new standards in global entertainment. From thrilling dramas and comedies to thought-provoking documentaries, it offers something for every taste. With its commitment to innovation, accessibility, and storytelling excellence, the platform has transformed the way people consume entertainment, becoming an integral part of modern digital culture and a leader in the global streaming industry.",
+    "size": "200MB",
+    "reviews": 35000000,
+    "ratingAvg": 5,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 3000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 20500000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1409/1409941.png",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 18,
+    "description": "A multimedia messaging app that allows users to share short-lived photos and videos with friends, adding a fun and spontaneous touch to digital communication. The app is designed for creativity and real-time interaction, featuring a wide variety of filters, lenses, stickers, and augmented reality effects that bring every snap to life. Users can capture moments, decorate them with text or drawings, and share them instantly, knowing that the content disappears after being viewed, promoting authenticity and in-the-moment sharing. Beyond direct messages, the platform offers public stories, discoverable content, and trending highlights from around the world, allowing users to explore news, entertainment, and popular culture. Its user-friendly interface and privacy-focused design encourage natural connections and self-expression. With innovative features like streaks, Bitmoji integration, and location-based filters, the app has become especially popular among younger audiences. It continues to evolve by introducing new tools for creators, augmented reality experiences, and social engagement opportunities, making it not just a messaging app but a dynamic social platform that blends communication, creativity, and entertainment in a uniquely interactive way.",
+    "size": "180MB",
+    "reviews": 32000000,
+    "ratingAvg": 3.5,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 2500000 },
+      { "name": "2 star", "count": 1800000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 9000000 },
+      { "name": "5 star", "count": 14700000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3536/3536661.png",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 19,
+    "description": "A cloud-based messaging app that prioritizes both speed and security has become one of the most trusted communication platforms worldwide. Designed to deliver messages instantly across any device, it allows users to stay connected seamlessly whether on mobile, desktop, or web. The app supports text messages, voice calls, video calls, and media sharing without compromising performance. Its cloud synchronization feature ensures that users can access their messages and files from anywhere, making communication fast, efficient, and reliable. One of its most powerful features is the ability to create large group chats that can include thousands of members, making it ideal for communities, organizations, and teams. Users can share documents, photos, videos, and files of almost any size, while its highly optimized servers guarantee smooth delivery even on slower networks. The app also supports bots, channels, and stickers, offering a wide range of customization and automation options that enhance the user experience. In terms of privacy, it provides end-to-end encrypted secret chats, ensuring that only the sender and receiver can read the messages. Users can also set self-destruct timers for messages, further enhancing confidentiality. With its blend of speed, security, and versatility, the app has become a leading choice for modern communication, trusted by millions around the globe.",
+    "size": "160MB",
+    "reviews": 25000000,
+    "ratingAvg": 4.8,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 1500000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 16500000 }
+    ]
+  },
+  {
+    "image":"https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 20,
+    "description": "The world’s largest video-sharing platform is a global hub where millions of users come together to upload, watch, and share videos on every imaginable topic. From music, education, and gaming to lifestyle, vlogs, and news, it serves as a universal stage for creators to express themselves and connect with audiences across the world. Viewers can engage with content by liking, commenting, and subscribing to their favorite channels, ensuring they never miss an update. Its intelligent recommendation system personalizes each user’s feed based on viewing history, preferences, and engagement patterns, making the experience unique for every individual. Beyond traditional video uploads, the platform also offers live streaming features, allowing creators to interact with their audiences in real time. It supports short-form videos, community posts, and stories, expanding the possibilities of digital interaction. Businesses and influencers use it as a marketing tool to reach large audiences, while educators and learners benefit from its vast library of tutorials and informative content. With billions of users and endless hours of video available, the platform has revolutionized entertainment, learning, and communication. Today, it stands not just as a website, but as a powerful ecosystem that shapes modern culture and digital media worldwide.",
+    "size": "150MB",
+    "reviews": 100000000,
+    "ratingAvg": 5,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 15000000 },
+      { "name": "5 star", "count": 69000000 }
+    ]
+  }
+]
